@@ -1,0 +1,13 @@
+README.md
+setup.py
+src/homework/__init__.py
+src/homework/calculator.py
+src/homework/genapganjil.py
+src/homework/utils.py
+src/package1.egg-info/PKG-INFO
+src/package1.egg-info/SOURCES.txt
+src/package1.egg-info/dependency_links.txt
+src/package1.egg-info/requires.txt
+src/package1.egg-info/top_level.txt
+tests/test_calculator.py
+tests/test_cek_bilangan.py
